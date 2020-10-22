@@ -7,8 +7,7 @@ I'm a Android and Fluter developer.
 - 💬 Ask me about Flutter and Android.
 
 ### Github Stats
-https://github-readme-stats.vercel.app/api?username=dangngocduc&count_private=true&theme=default&show_icons=true)](https://github.com/dangngocduc
-
+[![Dang Ngoc Duc Github Stats](https://github-readme-stats.vercel.app/api?username=dangngocduc&count_private=true&theme=default&show_icons=true)](https://github.com/dangngocduc)
 
 ### 👀 visitor count :
 
