@@ -8,7 +8,7 @@ I'm a Android and Fluter developer.
 
 ### Open Source Projects
 
-[![Flutter template application](https://github-readme-stats.vercel.app/api/pin/?username=dangngocduc&repo=flutter_application&theme=transparent)](https://github.com/dangngocduc/flutter_application)
+[![Flutter template application](https://github-readme-stats.vercel.app/api/pin/?username=dangngocduc&repo=flutter_application&theme=transparent&show_icons=true)](https://github.com/dangngocduc/flutter_application)
 [![instagram_flutter](https://github-readme-stats.vercel.app/api/pin/?username=dangngocduc&repo=instagram_flutter&theme=transparent)](https://github.com/dangngocduc/instagram_flutter)
 [![flutter_paging](https://github-readme-stats.vercel.app/api/pin/?username=dangngocduc&repo=flutter_paging&theme=transparent)](https://github.com/dangngocduc/flutter_paging)
 [![flutter_ecommerce_mobile](https://github-readme-stats.vercel.app/api/pin/?username=dangngocduc&repo=flutter_ecommerce_mobile&theme=transparent)](https://github.com/dangngocduc/flutter_ecommerce_mobile)
