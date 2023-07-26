@@ -2,7 +2,6 @@
 
 I'm a Android and Flutter developer.
 
-- 💬 I’m currently working on AgileTech.
 - 💬 Ask me about Flutter and Android.
 
 ### Open Source Projects
